@@ -8,3 +8,4 @@ def HomePage(request):
         'author':'Tanaporn',
         'tags':tags
     })
+#hello
